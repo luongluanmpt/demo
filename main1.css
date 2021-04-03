@@ -6,4 +6,26 @@
 
 .box {
     padding: 10px;
+    margin-left: 20%;
+    border-radius: 20px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    align-items: center;
+    background-color: chartreuse;
+}
+
+.box1 {
+    font-size: 50px;
+    background-color: brown;
+    width: fit-content;
+    height: fit-content;
+    border-style: double;
+    border-color: gold;
+    padding: 10px;
+    margin-left: 30%;
+}
+
+.link {
+    color: lawngreen;
 }
